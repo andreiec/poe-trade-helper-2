@@ -17,6 +17,8 @@ Path of Exile Trade Helper is an app to help you speed through bulk item trading
 <!-- GETTING STARTED -->
 ## Getting Started
 
+There are a few librarier that need to be installed in order for the app to work.
+
 ### Prerequisites
   ```sh
   npm install npm@latest -g
@@ -46,6 +48,8 @@ PoE Trade Helper is built upon Firefox Geckodriver and Selenium. A very simple t
 4. Get all info about each trade (username, price ratio, etc.)
 5. Display trades and refresh old ones
 6. Loop through steps 3-5
+
+### User Input
 
 Its simplicity is the key feature as there are no more than 5 input fields
 
