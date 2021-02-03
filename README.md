@@ -11,7 +11,9 @@ Path of Exile Trade Helper is an app to help you speed through bulk item trading
 * [Selenium](https://www.selenium.dev/)
 * [PyQt](https://www.riverbankcomputing.com/software/pyqt/)
 
-<img src="./images/tradehelper1.png" alt="iamge not found" width="300">
+<p align="center">
+<img src="./images/tradehelper1.png" alt="iamge not found" width="275">
+</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -26,10 +28,12 @@ There are a few librarier that need to be installed in order for the app to work
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/andreiec/poe-trade-helper-2.git
    ```
 2. Install NPM packages
+
    ```sh
    npm install
    ```
@@ -58,6 +62,7 @@ Its simplicity is the key feature as there are no more than 5 input fields
 * `Maximum Price` is the maximum price that a trade should hold (ratio is calculated)
 * `Available Currency` holds the maximum currency that the user is willing to trade, it is used to calculate price ratio
 * `Auto send Message` tells the app to open the game and automatically send a message to the first trade that appears (instead of manual clicking)
+* `Start` and `Stop` buttons are used for kickstarting the engine of the app
 
 <!-- LICENSE -->
 ## License
