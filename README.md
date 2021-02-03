@@ -3,8 +3,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="./images/tradehelper1.png" alt="iamge not found" width="300" align="right">
-
 Path of Exile Trade Helper is an app to help you speed through bulk item trading offers in an easy and comfortable way using a dedicated GUI and message automation.
 
 ### Built With
@@ -13,6 +11,7 @@ Path of Exile Trade Helper is an app to help you speed through bulk item trading
 * [Selenium](https://www.selenium.dev/)
 * [PyQt](https://www.riverbankcomputing.com/software/pyqt/)
 
+<img src="./images/tradehelper1.png" alt="iamge not found" width="300">
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -36,10 +35,9 @@ There are a few librarier that need to be installed in order for the app to work
    ```
 3. Install geckodriver [(Firefox)](https://github.com/mozilla/geckodriver/releases)
 
+
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-<img src="./images/tradehelper2.png" alt="iamge not found" width="300" align="right">
 
 PoE Trade Helper is built upon Firefox Geckodriver and Selenium. A very simple to understand workflow of the app is the following
 1. Get user input
@@ -50,6 +48,8 @@ PoE Trade Helper is built upon Firefox Geckodriver and Selenium. A very simple t
 6. Loop through steps 3-5
 
 ### User Input
+
+<img src="./images/tradehelper2.png" alt="iamge not found" width="300" align="right">
 
 Its simplicity is the key feature as there are no more than 5 input fields
 
